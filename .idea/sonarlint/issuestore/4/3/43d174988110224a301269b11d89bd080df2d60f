@@ -1,0 +1,39 @@
+
+Ä
+java:S1186x"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†ªÛ±8´‹¢‹í1J$b4ee31fc-d7ee-49da-afa9-cef5b908abdb
+Ã
+java:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âúžr8´‹¢‹í1J$b97b672a-41c0-4b74-9ecc-a183f54cb735
+Ã
+java:S1989)"{Handle the following exceptions that could be thrown by "writeValue": IOException, StreamWriteException, DatabindException.(´Ö¯äøÿÿÿÿ8Ë‹¢‹í1J$8c59af6e-4138-481a-a857-d813cd50808f
+˜
+java:S1989)"PHandle the following exception that could be thrown by "getWriter": IOException.(´Ö¯äøÿÿÿÿ8Ë‹¢‹í1J$3b1f9d13-0c7b-4d10-92aa-a5340fedbb6e
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(¼˜¬ùÿÿÿÿÿ8Î‹¢‹í1J$b3ac32c5-d5b9-4c15-be02-36ae87b67107
+Œ
+java:S2147L"DCombine this catch with the one at line 74, which has the same body.(°êã§ýÿÿÿÿ8Ð‹¢‹í1J$b0c5f668-61ba-4818-a299-21e0aa54d1c3
+‡
+java:S2147N"DCombine this catch with the one at line 76, which has the same body.(ï­£Ä8Ð‹¢‹í1J$767bccf1-7390-4dc2-a244-9c30c88dddd8
+Œ
+java:S2147\"DCombine this catch with the one at line 90, which has the same body.(°êã§ýÿÿÿÿ8¡ó†’í1J$fe906b20-17a3-46dd-9aa1-6dbf3090ac48
+‡
+java:S2147^"DCombine this catch with the one at line 92, which has the same body.(ï­£Ä8¡ó†’í1J$54113990-f91a-4417-a501-5ecd6b26b103
+p
+java:S1185d"(Remove this method to simply inherit it.(–àËµÿÿÿÿÿ8Ó‹¢‹í1J$0d9147ac-a4e4-4491-a276-3a67020b21bd
+¥
+java:S1989e"bHandle the following exceptions that could be thrown by "doDelete": ServletException, IOException.(ÌÂ«8Ó‹¢‹í1J$0e11b166-9f49-4e28-b2ef-700e4da766b5
+‡
+java:S1854p"?Remove this useless assignment to local variable "printWriter".(¿—Èœùÿÿÿÿ8Õ‹¢‹í1J$f07d275f-3436-47c5-9f91-acd8df9623e7
+x
+java:S1481p"0Remove this unused "printWriter" local variable.(¿—Èœùÿÿÿÿ8×‹¢‹í1J$386d0465-f075-4ca9-9108-af1335cabad9
+r	java:S106t"+Replace this use of System.out by a logger.(²ÞÎŠûÿÿÿÿ8Ø‹¢‹í1J$37cdddb9-eca0-4fe8-915a-a40394f6502c
+w
+java:S1172x"4Remove these unused method parameters "req", "resp".(†ªÛ±8Ù‹¢‹í1J$be6268f6-468e-4216-86e6-72aea40c449c
+v
+java:S1172|"4Remove these unused method parameters "req", "resp".(âúžr8Ú‹¢‹í1J$2260b6f0-fcd9-4f34-945e-eda0c88bee7a
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(•Çíåþÿÿÿÿ8Û‹¢‹í1J$d0425e9f-02f0-4a55-aaa5-6f0ede829adc
+y
+java:S1144h"1Remove this unused private "deleteAuthor" method.(ïàýüÿÿÿÿ8Û‹¢‹í1J$27f5b00a-7eb8-4fc9-be72-cf5ade164a9b
+t
+java:S1144x"1Remove this unused private "updateAuthor" method.(†ªÛ±8Û‹¢‹í1J$12184d4d-1000-4277-9788-63f0b30e7b7f
+p
+java:S1144|".Remove this unused private "addAuthor" method.(âúžr8Û‹¢‹í1J$a94b774f-a61a-4f82-a0b6-8d1371137d2e
