@@ -8,7 +8,6 @@ public class AuthorService {
     private AuthorDAO authorDAO = new AuthorDAO(new DbConnection().getConnection());
 
     public AuthorDTO getById(int id) {
-        System.out.println("вошел в метод");
         return authorDAO.getById(id);
     }
 

@@ -286,7 +286,7 @@ public class IntegrationTest {
     }
 
     @Test
-    @Order(11)
+    @Order(12)
     void testDeleteCustomer() throws SQLException {
         try (Connection connection = DriverManager.getConnection(postgreSQLContainer.getJdbcUrl(), postgreSQLContainer.getUsername(), postgreSQLContainer.getPassword())) {
             CustomerDAO customerDAO = new CustomerDAO(connection);
